@@ -18,7 +18,7 @@ const IndexPage = () => (
     >
       <SEO title="Home" />
       <img src={siteLogo} alt="Bank Wiki logo" />
-      <a href="http://www.bankwiki.org/mediawiki/">Enter the Site</a>
+      <a href="http://www.bankwiki.org/wiki/">Enter the Site</a>
     </div>
   </Layout>
 )
