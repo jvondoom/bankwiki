@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Bank Wiki`,
     description: `Bank Wiki landing page`,
-    author: `@jvondoom`,
+    author: `@hmkingmob`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
